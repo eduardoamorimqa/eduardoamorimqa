@@ -4,7 +4,7 @@
 - 🌱 Estudando Automação Web com Playwright  
 - 😄 Pronouns: ele/dele
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoamorimqa&show_icons=true&theme=merko) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoamorimqa&show_icons=true&theme=dracula) 
 
 
 <div style="display: inline_block"><br>
