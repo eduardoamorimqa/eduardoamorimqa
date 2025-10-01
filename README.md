@@ -70,14 +70,6 @@
 />
 <img
    align="left"
-   alt="SQL"
-   title="SQL"
-   width="40px"
-   style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
-/>
-<img
-   align="left"
    alt="Cypress"
    title="Cypress"
    width="40px"
@@ -123,14 +115,6 @@
    width="40px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-/>
-<img
-   align="left"
-   alt="Imsomnia"
-   title="Imsomnia"
-   width="40px"
-   style="padding-right: 10px;"
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg"
 />
 <img
    align="left"
