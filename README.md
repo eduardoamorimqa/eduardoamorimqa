@@ -16,7 +16,7 @@
    align="left"
    alt="JavaScript"
    title="JavaScript"
-   width="40px"
+   width="30px"
    style="padding-right: 10px;"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
 />
@@ -24,7 +24,7 @@
    align="left"
    alt="TypeScript"
    title="TypeScript"
-   width="40px"
+   width="30px"
    style="padding-right: 10px;"
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
 />
@@ -32,7 +32,7 @@
    align="left"
    alt="HTML"
    title="HTML"
-   width="40px"
+   width="30px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
@@ -40,7 +40,7 @@
    align="left"
    alt="Java"
    title="Java"
-   width="40px"
+   width="30px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
@@ -48,7 +48,7 @@
    align="left"
    alt="NodeJS"
    title="NodeJS"
-   width="40px"
+   width="30px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
 />
@@ -56,7 +56,7 @@
    align="left"
    alt="Python"
    title="Python"
-   width="40px"
+   width="30px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
@@ -64,7 +64,7 @@
    align="left"
    alt="Git"
    title="Git"
-   width="40px"
+   width="30px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
@@ -72,7 +72,7 @@
    align="left"
    alt="Cypress"
    title="Cypress"
-   width="40px"
+   width="30px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"
 />
@@ -80,7 +80,7 @@
    align="left"
    alt="Playwright"
    title="Playwright"
-   width="40px"
+   width="30px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg"
 />
@@ -88,7 +88,7 @@
    align="left"
    alt="Selenium"
    title="Selenium"
-   width="40px"
+   width="30px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"
 />
@@ -96,7 +96,7 @@
    align="left"
    alt="Jira"
    title="Jira"
-   width="40px"
+   width="30px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg"
 />
@@ -104,7 +104,7 @@
    align="left"
    alt="Cucumber"
    title="Cucumber"
-   width="40px"
+   width="30px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg"
 />
@@ -112,7 +112,7 @@
    align="left"
    alt="Postman"
    title="Postman"
-   width="40px"
+   width="30px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
 />
@@ -120,7 +120,7 @@
    align="left"
    alt="VSCode"
    title="VSCode"
-   width="40px"
+   width="30px"
    style="padding-right: 10px;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
 />
